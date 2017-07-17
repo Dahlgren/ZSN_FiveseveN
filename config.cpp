@@ -348,6 +348,11 @@ class CfgVehicles
 	{
 		class TransportMagazines
 		{
+			class _xx_30Rnd_9x21_Mag
+			{
+				magazine = "30Rnd_9x21_Mag";
+				count = 2;	
+			};
 			delete _xx_10Rnd_9x21_Mag;
 			class _xx_RH_18Rnd_9x19_gsh
 			{
@@ -357,6 +362,11 @@ class CfgVehicles
 		};
 		class TransportWeapons
 		{
+			class _xx_hgun_PDW2000_snds_F
+			{
+				weapon = "hgun_PDW2000_snds_F";
+				count = 2;
+			};
 			delete _xx_hgun_Pistol_01_F;
 			class _xx_RH_gsh18
 			{
@@ -369,6 +379,11 @@ class CfgVehicles
 	{
 		class TransportMagazines
 		{
+			class _xx_30Rnd_9x21_Mag
+			{
+				magazine = "30Rnd_9x21_Mag";
+				count = 6;	
+			};
 			delete _xx_10Rnd_9x21_Mag;
 			class _xx_RH_18Rnd_9x19_gsh
 			{
