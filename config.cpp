@@ -1087,8 +1087,8 @@ class CfgVehicles
 	};
 	class B_recon_M_F: B_Soldier_recon_base
 	{
-		weapons[] = {"ZSN_arifle_SPAR_03_snd_DMS_LP_BI_snds_F","ZSN_RH_fn57_t","Throw","Put","Rangefinder"};
-		respawnWeapons[] = {"ZSN_arifle_SPAR_03_snd_DMS_LP_BI_snds_F","ZSN_RH_fn57_t","Throw","Put","Rangefinder"};
+		weapons[] = {"ZSN_arifle_SPAR_03_snd_MOS_LP_BI_snds_F","ZSN_RH_fn57_t","Throw","Put","Rangefinder"};
+		respawnWeapons[] = {"ZSN_arifle_SPAR_03_snd_MOS_LP_BI_snds_F","ZSN_RH_fn57_t","Throw","Put","Rangefinder"};
 		magazines[] = {"20Rnd_762x51_Mag","20Rnd_762x51_Mag","20Rnd_762x51_Mag","20Rnd_762x51_Mag","20Rnd_762x51_Mag","20Rnd_762x51_Mag","RH_20Rnd_57x28_FN","RH_20Rnd_57x28_FN","RH_20Rnd_57x28_FN","MiniGrenade","MiniGrenade","SmokeShell","SmokeShellGreen","Chemlight_green","Chemlight_green"};
 		respawnMagazines[] = {"20Rnd_762x51_Mag","20Rnd_762x51_Mag","20Rnd_762x51_Mag","20Rnd_762x51_Mag","20Rnd_762x51_Mag","20Rnd_762x51_Mag","RH_20Rnd_57x28_FN","RH_20Rnd_57x28_FN","RH_20Rnd_57x28_FN","MiniGrenade","MiniGrenade","SmokeShell","SmokeShellGreen","Chemlight_green","Chemlight_green"};
 	};
