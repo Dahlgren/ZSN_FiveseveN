@@ -6,7 +6,6 @@
 
 #define _ARMA_
 
-//Class bsl_marksmen : config.bin{
 class CfgPatches
 {
 	class ZSN_FiveseveN
@@ -1529,4 +1528,3 @@ class CfgVehicles
 		};
 	};
 };
-//};
