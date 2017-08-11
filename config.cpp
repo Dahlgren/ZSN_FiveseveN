@@ -711,15 +711,15 @@ class CfgVehicles
 	};
 	class I_C_Soldier_Para_4_F : I_C_Soldier_base_F
 	{
-		weapons[] = {"ZSN_LMG_Mk200_BI_F","RH_gsh18","Throw","Put"};
-		respawnWeapons[] = {"ZSN_LMG_Mk200_BI_F","RH_gsh18","Throw","Put"};
+		weapons[] = {"LMG_Mk200_F","RH_gsh18","Throw","Put"};
+		respawnWeapons[] = {"LMG_Mk200_F","RH_gsh18","Throw","Put"};
 		magazines[] = {"200Rnd_65x39_cased_Box","200Rnd_65x39_cased_Box","200Rnd_65x39_cased_Box","RH_18Rnd_9x19_gsh","RH_18Rnd_9x19_gsh","RH_18Rnd_9x19_gsh"};
 		respawnMagazines[] = {"200Rnd_65x39_cased_Box","200Rnd_65x39_cased_Box","200Rnd_65x39_cased_Box","RH_18Rnd_9x19_gsh","RH_18Rnd_9x19_gsh","RH_18Rnd_9x19_gsh"};
 	};
 	class I_C_Soldier_Bandit_3_F : I_C_Soldier_base_F
 	{
-		weapons[] = {"ZSN_LMG_Mk200_BI_F","RH_gsh18","Throw","Put"};
-		respawnWeapons[] = {"ZSN_LMG_Mk200_BI_F","RH_gsh18","Throw","Put"};
+		weapons[] = {"LMG_Mk200_F","RH_gsh18","Throw","Put"};
+		respawnWeapons[] = {"LMG_Mk200_F","RH_gsh18","Throw","Put"};
 		magazines[] = {"200Rnd_65x39_cased_Box","RH_18Rnd_9x19_gsh","RH_18Rnd_9x19_gsh","RH_18Rnd_9x19_gsh"};
 		respawnMagazines[] = {"200Rnd_65x39_cased_Box","RH_18Rnd_9x19_gsh","RH_18Rnd_9x19_gsh","RH_18Rnd_9x19_gsh"};
 	};
