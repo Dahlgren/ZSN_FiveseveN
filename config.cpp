@@ -1119,8 +1119,8 @@ class CfgVehicles
 	};
 	class B_T_ghillie_tna_F : B_ghillie_base_F
 	{
-		weapons[] = {"srifle_LRR_tna_LRPS_F","ZSN_ZSN_RH_fn57_g","Throw","Put","Rangefinder"};
-		respawnWeapons[] = {"srifle_LRR_tna_LRPS_F","ZSN_ZSN_RH_fn57_g","Throw","Put","Rangefinder"};
+		weapons[] = {"srifle_LRR_tna_LRPS_F","ZSN_RH_fn57_g","Throw","Put","Rangefinder"};
+		respawnWeapons[] = {"srifle_LRR_tna_LRPS_F","ZSN_RH_fn57_g","Throw","Put","Rangefinder"};
 	};
 	class B_sniper_F : B_Soldier_sniper_base_F
 	{
