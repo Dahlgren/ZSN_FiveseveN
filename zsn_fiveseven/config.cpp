@@ -548,6 +548,12 @@ class CfgVehicles
 		magazines[] = {"30Rnd_556x45_Stanag","30Rnd_556x45_Stanag","30Rnd_556x45_Stanag","30Rnd_556x45_Stanag","RH_15Rnd_45cal_fnp","RH_15Rnd_45cal_fnp","RH_15Rnd_45cal_fnp","SmokeShellGreen","SmokeShellOrange","SmokeShellPurple","Chemlight_green","Chemlight_green"};
 		respawnMagazines[] = {"30Rnd_556x45_Stanag","30Rnd_556x45_Stanag","30Rnd_556x45_Stanag","30Rnd_556x45_Stanag","RH_15Rnd_45cal_fnp","RH_15Rnd_45cal_fnp","RH_15Rnd_45cal_fnp","SmokeShellGreen","SmokeShellOrange","SmokeShellPurple","Chemlight_green","Chemlight_green"};
 	};
+	class I_Story_Officer_01_F: I_Officer_F
+	{
+		magazines[] = {"30Rnd_556x45_Stanag","30Rnd_556x45_Stanag","30Rnd_556x45_Stanag","30Rnd_556x45_Stanag","RH_15Rnd_45cal_fnp","RH_15Rnd_45cal_fnp","RH_15Rnd_45cal_fnp","RH_15Rnd_45cal_fnp","APERSMineDispenser_Mag","APERSMineDispenser_Mag","APERSMineDispenser_Mag","SmokeShell"};
+		respawnMagazines[] = {"30Rnd_556x45_Stanag","30Rnd_556x45_Stanag","30Rnd_556x45_Stanag","30Rnd_556x45_Stanag","RH_15Rnd_45cal_fnp","RH_15Rnd_45cal_fnp","RH_15Rnd_45cal_fnp","RH_15Rnd_45cal_fnp","APERSMineDispenser_Mag","APERSMineDispenser_Mag","APERSMineDispenser_Mag","SmokeShell"};
+		weapons[] = {"arifle_Mk20_plain_F","RH_fnp45t"};
+	};
 	class I_Soldier_diver_base_F: I_Soldier_base_F
 	{
 		weapons[] = {"arifle_SDAR_F","ZSN_RH_fnp45","Throw","Put"};
